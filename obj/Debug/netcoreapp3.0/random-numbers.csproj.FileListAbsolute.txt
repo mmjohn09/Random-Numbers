@@ -1,0 +1,11 @@
+/Users/maggie/workspace/csharp/exercises/random-numbers/bin/Debug/netcoreapp3.0/random-numbers
+/Users/maggie/workspace/csharp/exercises/random-numbers/bin/Debug/netcoreapp3.0/random-numbers.deps.json
+/Users/maggie/workspace/csharp/exercises/random-numbers/bin/Debug/netcoreapp3.0/random-numbers.runtimeconfig.json
+/Users/maggie/workspace/csharp/exercises/random-numbers/bin/Debug/netcoreapp3.0/random-numbers.runtimeconfig.dev.json
+/Users/maggie/workspace/csharp/exercises/random-numbers/bin/Debug/netcoreapp3.0/random-numbers.dll
+/Users/maggie/workspace/csharp/exercises/random-numbers/bin/Debug/netcoreapp3.0/random-numbers.pdb
+/Users/maggie/workspace/csharp/exercises/random-numbers/obj/Debug/netcoreapp3.0/random-numbers.csprojAssemblyReference.cache
+/Users/maggie/workspace/csharp/exercises/random-numbers/obj/Debug/netcoreapp3.0/random-numbers.AssemblyInfoInputs.cache
+/Users/maggie/workspace/csharp/exercises/random-numbers/obj/Debug/netcoreapp3.0/random-numbers.AssemblyInfo.cs
+/Users/maggie/workspace/csharp/exercises/random-numbers/obj/Debug/netcoreapp3.0/random-numbers.dll
+/Users/maggie/workspace/csharp/exercises/random-numbers/obj/Debug/netcoreapp3.0/random-numbers.pdb
